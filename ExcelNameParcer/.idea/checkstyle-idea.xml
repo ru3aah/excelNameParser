@@ -3,6 +3,7 @@
   <component name="CheckStyle-IDEA" serialisationVersion="2">
     <checkstyleVersion>10.9.3</checkstyleVersion>
     <scanScope>JavaOnlyWithTests</scanScope>
+    <option name="thirdPartyClasspath" />
     <option name="activeLocationIds">
       <option value="bundled-sun-checks" />
     </option>
